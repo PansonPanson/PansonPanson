@@ -2,6 +2,9 @@
 
 徽州人，长饮新安江水，白砖青瓦下成长。
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PansonPanson&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Panson's github stats](https://github-readme-stats.vercel.app/api?username=PansonPanson&show_icons=true&theme=moltack?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PansonPanson&hide=javascript,html,css,TSQL,shell)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
