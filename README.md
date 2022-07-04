@@ -5,9 +5,8 @@
 + 阅读过 Eureka、zk 分布式锁、Apache RocketMQ 的源码，目前正在读 Spring IOC 和 AOP 部分的源码，同步阅读 Netty 的源码；
 + 计划学习 Golang 和 Rust(一直挖坑中……)
 
-[![Panson's github stats](https://github-readme-stats.vercel.app/api?username=PansonPanson&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PansonPanson&hide=javascript,html,css,TSQL,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PansonPanson&hide=javascript,html,css,TSQL,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
