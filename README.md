@@ -6,7 +6,5 @@
 + 计划学习 Golang 和 Rust(一直挖坑中……)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PansonPanson&hide=javascript,html,css,TSQL,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
