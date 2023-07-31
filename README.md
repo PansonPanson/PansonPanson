@@ -11,5 +11,13 @@
 + 熟悉主流的消息队列，阅读过 RocketMQ 的源码，了解底层原理，有生产环境千万级消息推送使用经验。
 
 
+### 源码阅读
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PansonPanson&repo=mybatis-sourcecode-reading)](https://github.com/PansonPanson/mybatis-sourcecode-reading)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PansonPanson&repo=RocketMQ-Reading)](https://github.com/PansonPanson/RocketMQ-Reading)
+
+
+
+### 博文
++ 正在努力写一个高质量的gitbook……
 
 
