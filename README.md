@@ -15,6 +15,7 @@
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PansonPanson&repo=RocketMQ-Reading)](https://github.com/PansonPanson/RocketMQ-Reading)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PansonPanson&repo=redis-7-sourcode-reading)](https://github.com/PansonPanson/redis-7-sourcode-reading)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PansonPanson&repo=dubbo-3.2.11)](https://github.com/PansonPanson/dubbo-3.2.11)
 
 
 ### 博文
