@@ -18,7 +18,3 @@
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PansonPanson&repo=dubbo-3.2.11)](https://github.com/PansonPanson/dubbo-3.2.11)
 
 
-### 博文
-+ 正在努力写一个高质量的gitbook……
-
-
