@@ -12,9 +12,8 @@
 
 
 ### 源码阅读
-
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PansonPanson&repo=hippo4j-sourcecoede-reading)](https://github.com/PansonPanson/hippo4j-sourcecoede-reading)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PansonPanson&repo=RocketMQ-sourcecode-reading)](https://github.com/PansonPanson/RocketMQ-Reading)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PansonPanson&repo=redis-7-sourcecode-reading)](https://github.com/PansonPanson/redis-7-sourcode-reading)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PansonPanson&repo=dubbo-3.2.11)](https://github.com/PansonPanson/dubbo-3.2.11)
 
 
